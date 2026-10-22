@@ -16,6 +16,9 @@ Thumbs.db
 
 # Data files (large)
 *.fits
+*.fits.gz
+*.parquet
+*.deb
 *.npz
 *.npy
 *.h5
